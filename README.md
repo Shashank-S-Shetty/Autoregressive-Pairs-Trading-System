@@ -70,3 +70,7 @@ Based on backtesting with synthetic data:
 ## 📚 References
 
 - Uyumazturk, B., & Portilheiro, V. "Rise and Fall: An Autoregressive Approach to Pairs Trading"
+
+  ## 👨‍💻 Author
+
+**Shashank S Shetty**
